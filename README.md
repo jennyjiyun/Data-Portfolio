@@ -18,4 +18,4 @@
   - Neural Network 
   - Classical time series decomposition
   - Theta
-  - Vector Autoregression model (VAR): include other data that might help predict building permits (i.e. include unemployment rate, total nonfarm payroll, interest rate, discount rate for US, and New Privately Owned Housing Units Started)
+  - Vector Autoregression model (VAR): include other data that might help predict building permits (i.e. include unemployment rate, total nonfarm payroll, interest rate, discount rate for US, and new privately owned housing units started)
