@@ -6,8 +6,11 @@
   - Once a diner finshes eating, the system automatically calculates the cost of the meal for each diner based on their order.  
   - Once a diner is ready to leave, the system shows a message thanking the diner.
 
+
 .
 .
+.
+
 
 2) Real Estate Project (R): Build forecasting models for each of 5 different scenarios to find the best model that predicts movements in the real estate market specifically New Private Housing Units authorized by Building Permits (1-unit structures in Florida).
   The following forecasting models are built:
