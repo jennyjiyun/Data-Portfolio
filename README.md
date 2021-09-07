@@ -1,7 +1,7 @@
 # Data-Portfolio
 
 1) Restaurant Simulation (Python): 
-- Using object-oriented programming (OOP), develop a system that keeps track of a restaurant's status for every certain time period. 
+- Using object-oriented programming (OOP), develop a program that keeps track of a restaurant's status for every certain time period. 
     - Once a diner comes in, the system welcomes the diner.
     - Once a diner is seataed, the system shows a diner four different categories of menu items. The diner can choose any menu item from each category (Drink, Appetizer, Entree, Dessert).
     - Once a diner finshes eating, the system automatically calculates the cost of the meal for each diner based on their order.  
